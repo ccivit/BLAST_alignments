@@ -14,7 +14,7 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 ## Code
 
-This repository contains a colleciton basic tools neeeded to execute BLAST searches. A useful method to avoid cumbersome installations of dependecies is to launch a docker container and run the code inside of it. To install docker, please follow the instructions in their website:
+This repository contains a collection basic tools neeeded to execute BLAST searches. A useful method to avoid cumbersome installations of dependecies is to launch a docker container and run the code inside of it. To install docker, please follow the instructions in their website:
 
 https://www.docker.com/
 
