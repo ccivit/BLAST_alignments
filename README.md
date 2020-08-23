@@ -24,4 +24,9 @@ After the installation is complete, go to terminal and type the following code:
 docker run -it -v ~/local/folder/to/map:/biopython biopython/biopython /bin/bash
 ```
 
+Other official BLAST container
+```
+docker run --rm ncbi/blast \
+```
+
 This will cause a laundry list of installations that you don't have to worry about. Once it is complete, you'll be at the command line of a docker container that has all the tools that you need to continue with these instructions.
